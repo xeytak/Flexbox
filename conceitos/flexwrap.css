@@ -1,0 +1,12 @@
+.box{
+    border: 1px dashed black;
+    display: flex;
+    flex-wrap: wrap;
+    width: 150px;
+}
+
+.box div{
+    font-size:  1,5em;
+    border: 1px solid black;
+    width: 100px;
+}

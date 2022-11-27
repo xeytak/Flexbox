@@ -1,0 +1,14 @@
+.box{
+    display: flex;
+    border: 1px solid black;
+
+    align-items: stretch;
+
+
+    height: 150px;
+    width: 150px;
+}
+
+.box div{
+    border: 1px solid red;
+}
