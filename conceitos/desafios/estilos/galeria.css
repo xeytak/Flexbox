@@ -1,0 +1,12 @@
+.maindiv{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    justify-content: center;
+}
+
+.box{
+    width: 270px;
+    height: 120px;
+    border: 1px solid black;
+}
